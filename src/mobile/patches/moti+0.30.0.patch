@@ -1,0 +1,10 @@
+diff --git a/node_modules/moti/src/components/safe-area-view.tsx b/node_modules/moti/src/components/safe-area-view.tsx
+index 22d3f9a..7a72240 100644
+--- a/node_modules/moti/src/components/safe-area-view.tsx
++++ b/node_modules/moti/src/components/safe-area-view.tsx
+@@ -1,4 +1,4 @@
+-import { SafeAreaView as RSafeAreaView } from 'react-native'
++import { SafeAreaView as RSafeAreaView } from 'react-native-safe-area-context'
+ 
+ import { motify } from '../core'
+ 
