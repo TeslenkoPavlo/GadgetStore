@@ -1,5 +1,5 @@
 
-![ДИПЛОМНЕ ПРОЕКТУВАННЯ]()
+![ДИПЛОМНЕ_ПРОЕКТУВАННЯ](https://github.com/TeslenkoPavlo/GadgetStore/blob/main/assets/header.png)
 
 ## РОЗРОБКА МОБІЛЬНОГО ЗАСТОСУНКУ ДЛЯ ІНТЕРНЕТ-МАГАЗИНУ ЕЛЕКТРОНІКИ
 
@@ -13,7 +13,15 @@
 
 ### ТЕХНІЧНЕ ДЕМО ВІДЕО
 
-`Тут буде розміщено запис екрану (демонстарція) продукту`
+<div align="center">
+
+https://github.com/user-attachments/assets/6afb9620-5ac9-41b8-a7df-9005c65d4343
+
+<br>
+
+```Приклад оформлення та оплати замовлення```
+
+</div>
 
 ---
 
@@ -33,4 +41,4 @@
 
 Інсталяційний пакет мобільного застосунку (APK) доступний для завантаження на [Aptoide]().
 
-![COPYRIGHT]()
+![COPYRIGHT](https://github.com/TeslenkoPavlo/GadgetStore/blob/main/assets/footer.png)
