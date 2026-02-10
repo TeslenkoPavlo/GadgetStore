@@ -1,4 +1,3 @@
-## РОЗРОБКА МОБІЛЬНОГО ЗАСТОСУНКУ ДЛЯ ІНТЕРНЕТ-МАГАЗИНУ ЕЛЕКТРОНІКИ
 
 ### ЗАВДАННЯ ДО ДИПЛОМНОЇ РОБОТИ
 
@@ -8,15 +7,13 @@
 
 ### ВИКОРИСТАНІ ТЕХНОЛОГІЇ
 
-<ul style="list-style-position: inside; padding-left: 0;">
-  <li>React Native</li>
-  <li>Expo</li>
-  <li>TypeScript</li>
-  <li>Firebase</li>
-  <li>Vertex AI</li>
-  <li>LiqPay</li>
-  <li>NativeWind</li>
-</ul>
+&bull; React Native<br>
+&bull; Expo<br>
+&bull; TypeScript<br>
+&bull; Firebase<br>
+&bull; Vertex AI<br>
+&bull; LiqPay<br>
+&bull; NativeWind>
 
 ---
 
