@@ -1,3 +1,6 @@
+---
+title: Розробка мобільного застосунку для інтернет-магазину електроніки
+---
 
 ### ЗАВДАННЯ ДО ДИПЛОМНОЇ РОБОТИ
 
@@ -13,7 +16,7 @@
 &bull; Firebase<br>
 &bull; Vertex AI<br>
 &bull; LiqPay<br>
-&bull; NativeWind>
+&bull; NativeWind
 
 ---
 
