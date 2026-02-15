@@ -78,8 +78,12 @@ const filterNameInput = (text: string): string => {
 
 const validateEmail = (email: string): { isValid: boolean; error?: string } => {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  const latinOnlyRegex = /^[a-zA-Z0-9@.\-_+]+$/;
   if (!email.trim()) {
     return { isValid: false, error: 'Введіть email адресу' };
+  }
+  if (!latinOnlyRegex.test(email.trim())) {
+    return { isValid: false, error: 'Email повинен містити тільки латинські літери' };
   }
   if (!emailRegex.test(email.trim())) {
     return { isValid: false, error: 'Невірний формат email адреси' };

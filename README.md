@@ -35,6 +35,6 @@ https://github.com/user-attachments/assets/6afb9620-5ac9-41b8-a7df-9005c65d4343
 
 ### ОПУБЛІКОВАНИЙ ПРОДУКТ
 
-Інсталяційний пакет мобільного застосунку (APK) доступний для завантаження на [Aptoide]().
+Інсталяційний пакет мобільного застосунку (APK) доступний для завантаження в [Releases]().
 
 ![COPYRIGHT](https://github.com/TeslenkoPavlo/GadgetStore/blob/main/assets/footer.png)

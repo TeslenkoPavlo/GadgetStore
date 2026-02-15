@@ -106,6 +106,10 @@ const validateEmail = (email: string): { isValid: boolean; error?: string } => {
     return { isValid: false, error: "Обов'язкове поле" };
   }
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  const latinOnlyRegex = /^[a-zA-Z0-9@.\-_+]+$/;
+  if (!latinOnlyRegex.test(email.trim())) {
+    return { isValid: false, error: 'Email повинен містити тільки латинські літери' };
+  }
   if (!emailRegex.test(email.trim())) {
     return { isValid: false, error: 'Невірний формат email' };
   }
