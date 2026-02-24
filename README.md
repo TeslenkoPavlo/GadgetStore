@@ -29,7 +29,9 @@ https://github.com/user-attachments/assets/6afb9620-5ac9-41b8-a7df-9005c65d4343
 * Firebase
 * Vertex AI
 * LiqPay
-* NativeWind 
+* NativeWind
+* Node.js
+* Express.js
 
 ---
 

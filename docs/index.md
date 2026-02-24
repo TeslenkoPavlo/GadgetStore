@@ -16,7 +16,9 @@ title: Розробка мобільного застосунку для інт�
 &bull; Firebase<br>
 &bull; Vertex AI<br>
 &bull; LiqPay<br>
-&bull; NativeWind
+&bull; NativeWind<br>
+&bull; Node.js<br>
+&bull; Express.js
 
 ---
 
